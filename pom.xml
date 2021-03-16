@@ -5,6 +5,6 @@
              http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.gowtham.ffmpeg-min</groupId>
-   <artifactId>mobile-ffmpeg-min-4.4.LTS</artifactId>
-   <version>1.4</version>
+   <artifactId>mobile-ffmpeSg-min-4.4.LTS</artifactId>
+   <version>1.10</version>
 </project>
